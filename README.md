@@ -1,6 +1,6 @@
 
 # <span style="color:rgb(213,80,0)">Weather analysis</span>
-[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=yanndebray/weather)
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=davidm2222/weather)
 
 Open the app in focus mode: https://matlab.mathworks.com/open/github/v1?repo=yanndebray/weather&file=weather.mlapp&focus=true
 
